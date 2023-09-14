@@ -1,0 +1,18 @@
+#mapmap {
+    width: 70%;
+}
+
+#mapinfo {
+    width: 30%;
+}
+table {
+    table-layout: fixed;
+    width: 100%;
+}
+td {
+    padding: 20px;
+}
+
+path:hover {
+    fill: green;
+}
